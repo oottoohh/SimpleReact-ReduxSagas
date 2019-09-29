@@ -1,0 +1,6 @@
+export const FETCH_POSTS = 'FETCH_POSTS';
+export const SUCCESS_FETCH_POSTS = 'SUCCESS_FETCH_POSTS';
+export const NEW_POST = 'NEW_POST';
+export const HANDLE_STATE = 'HANDLE_STATE';
+export const CREATE_POST = 'CREATE_POST';
+export const SUCCESS_CREATE_POST = 'SUCCESS_CREATE_POST';
